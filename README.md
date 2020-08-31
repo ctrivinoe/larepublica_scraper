@@ -14,8 +14,8 @@ This project is a news scraper for the newspaper [La Republica](https://www.lare
 
 ## Warning ⚠️
 
-This project is functional today (30-08-2020). If the HTML structure of the [website](https://www.larepublica.co/) changes, the project'll not work well.
-Also advise that scraping is totally legal today (30-08-2020) on the [website](https://www.larepublica.co/).
+This project is functional today (31-08-2020). If the HTML structure of the [website](https://www.larepublica.co/) changes, the project'll not work well.
+Also advise that scraping is totally legal today (31-08-2020) on the [website](https://www.larepublica.co/).
 
 ## Pre-requisites 📋
 _You need Python 3 for run this project: [Python 3](https://www.python.org/downloads/release/python-370/)_
