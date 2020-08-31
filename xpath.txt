@@ -1,4 +1,4 @@
-Links = //h2/a[@class]/@href
-Título = //h2/a[@class]/text()
-Resumen = //div[@class="lead"]/p/text()
-Cuerpo = //div[@class="html-content"]/p[not(@class)]/text()
+Links = //text-fill[not(@class)]/a/@href
+Title = //div[@class="mb-auto"]/text-fill/a/text()
+Summary = //div[@class="lead"]/p/text()
+Body = //div[@class="html-content"]/p[not(@class)]/text()
